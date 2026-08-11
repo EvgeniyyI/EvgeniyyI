@@ -36,3 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://avatars.mds.yandex.net/i?id=bd7e5f19600a5a8bfc779e54ce083f529fd5f784-3733141-images-thumbs&n=13" title="Bash" alt="Bash" width="40" height="40"/>
 </p>
+
+<h2>Test Artifacts</h2>
+<ul>
+  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+</ul>
+
+<h3 align="center">📫 Open to collaboration</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+ <!-- <a href="https://t.me/footbick22"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a> -->
+ <a href="mailto:evgeniy.iv22@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+</p>
