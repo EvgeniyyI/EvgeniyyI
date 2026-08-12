@@ -9,6 +9,7 @@
   <li>🎓 BSUIR graduate.</li>
   <li>📖 Creating portfolio projects in web and database testing.</li>
   <li>🤝 Enjoy both solo deep testing and team work.</li>
+  <li>⚽ Football · Cycling 🚲</li>
 </ul>
 
 <h2>Some Tools I Use</h2>
