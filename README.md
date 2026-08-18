@@ -43,7 +43,7 @@
   <li><a href="https://github.com/EvgeniyyI/RestAssured-API-Tests.git">RestAssured API Tests</a> – automated API testing</li>
   <li><a href="https://github.com/EvgeniyyI/Postman-API-Testing.git">Postman API Testing</a> – REST API tests</li>
   <li><a href="https://github.com/EvgeniyyI/MySQL-Practice.git">MySQL Practice</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">JUnit Tests</a> – unit testing with Java</li>
+  <li><a href="https://github.com/EvgeniyyI/JUnit-Tests.git">JUnit Tests</a> – unit testing with Java</li>
 </ul>
 
 <h3 align="center">📫 Open to collaboration</h3>
