@@ -44,9 +44,6 @@
   <li><a href="https://github.com/osukhorukova/sql">Postman API Testing</a> – REST API tests</li>
   <li><a href="https://github.com/osukhorukova/mongodb">MySQL Practice</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/osukhorukova/mobile_testing">JUnit Tests</a> – unit testing with Java</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
 </ul>
 
 <h3 align="center">📫 Open to collaboration</h3>
