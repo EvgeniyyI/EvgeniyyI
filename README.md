@@ -41,7 +41,7 @@
 <ul>
   <li><a href="https://github.com/EvgeniyyI/Selenide-UI-Automation.git">Selenide UI Automation</a> – Page Object Model, Allure reports</li>
   <li><a href="https://github.com/EvgeniyyI/RestAssured-API-Tests.git">RestAssured API Tests</a> – automated API testing</li>
-  <li><a href="https://github.com/osukhorukova/sql">Postman API Testing</a> – REST API tests</li>
+  <li><a href="https://github.com/EvgeniyyI/Postman-API-Testing.git">Postman API Testing</a> – REST API tests</li>
   <li><a href="https://github.com/osukhorukova/mongodb">MySQL Practice</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/osukhorukova/mobile_testing">JUnit Tests</a> – unit testing with Java</li>
 </ul>
