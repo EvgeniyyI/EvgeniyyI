@@ -39,7 +39,7 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Selenide UI Automation</a> – Page Object Model, Allure reports</li>
+  <li><a href="https://github.com/EvgeniyyI/Selenide-UI-Automation.git">Selenide UI Automation</a> – Page Object Model, Allure reports</li>
   <li><a href="https://github.com/osukhorukova/api_testing">RestAssured API Tests</a> – automated API testing</li>
   <li><a href="https://github.com/osukhorukova/sql">Postman API Testing</a> – REST API tests</li>
   <li><a href="https://github.com/osukhorukova/mongodb">MySQL Practice</a> – queries and DB validation scripts</li>
