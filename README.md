@@ -19,7 +19,7 @@
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" alt="TestRail" width="40" height="40"/>
   <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>
 
-  <img src="https://miro.medium.com/v2/resize:fit:600/1*u_0uA1Zw8HdENarI0aEbLA.jpeg" title="Selenide" alt="Selenide" width="40" height="40"/>
+  <img src="https://static10.tgstat.ru/channels/_0/05/058766e7e7a6c19024861016b9f60357.jpg" title="Selenide" alt="Selenide" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
