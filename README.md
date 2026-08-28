@@ -33,7 +33,8 @@
   <img src="https://avatars.mds.yandex.net/i?id=37566081fc8ac2df244c10d4996a12ba466a8024-5910699-images-thumbs&n=13" title="Fiddler" alt="Fiddler" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  
+
+  <img src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.svg" title="Docker" alt="Docker" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://avatars.mds.yandex.net/i?id=bd7e5f19600a5a8bfc779e54ce083f529fd5f784-3733141-images-thumbs&n=13" title="Bash" alt="Bash" width="40" height="40"/>
 </p>
